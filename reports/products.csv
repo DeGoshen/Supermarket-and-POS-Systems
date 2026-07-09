@@ -1,0 +1,21 @@
+sku,name,category,tax_rate_pct,price,quantity_in_stock,reorder_level,is_low_stock,is_perishable,expiry_date,is_expired,last_updated
+RICE-001,Golden Penny Rice 5kg,Food & Beverages,0.5,8500,30,10,False,False,,False,2026-07-09 18:11:09
+SUGR-002,Dangote Sugar 1kg,Food & Beverages,0.5,1200,60,15,False,False,,False,2026-07-09 18:11:09
+SEMI-003,Semovita 1kg,Food & Beverages,0.5,1600,45,10,False,False,,False,2026-07-09 18:11:09
+FLOR-004,Honeywell Flour 2kg,Food & Beverages,0.5,2300,40,12,False,False,,False,2026-07-09 18:11:09
+MILK-005,Peak Full Cream Milk 400g,Food & Beverages,0.5,2200,20,5,False,True,2026-09-30,False,2026-07-09 18:11:09
+BUTR-006,Trader Joe's Butter 250g,Food & Beverages,0.5,3100,15,4,False,True,2026-08-15,False,2026-07-09 18:11:09
+YOGT-007,Chi Yoghurt 250ml,Food & Beverages,0.5,900,8,3,False,True,2025-03-01,True,2026-07-09 18:11:09
+MALT-010,Malt Drink 33cl (crate),Drinks & Beverages,0.5,5500,20,5,False,False,,False,2026-07-09 18:11:09
+COKE-011,Coca-Cola 60cl,Drinks & Beverages,0.5,500,80,20,False,False,,False,2026-07-09 18:11:09
+EVML-012,Hollandia Evap. Milk 400g,Drinks & Beverages,0.5,1800,25,8,False,True,2026-12-31,False,2026-07-09 18:11:09
+PARA-020,Paracetamol 500mg 24-tabs,Pharmaceuticals,0.0,650,80,20,False,True,2026-12-31,False,2026-07-09 18:11:09
+VITC-021,Vitamin C 1000mg 30-tabs,Pharmaceuticals,0.0,1400,50,15,False,True,2027-06-01,False,2026-07-09 18:11:09
+AMOX-022,Amoxicillin 250mg (10 caps),Pharmaceuticals,0.0,2100,30,10,False,True,2026-07-01,True,2026-07-09 18:11:09
+PHON-030,Tecno Spark 20 Pro,Electronics,0.75,195000,3,2,False,False,,False,2026-07-09 18:11:09
+CHGR-031,Oraimo USB-C Charger 33W,Electronics,0.75,8500,15,5,False,False,,False,2026-07-09 18:11:09
+PHON-032,Infinix HOT 40i,Electronics,0.75,145000,5,2,False,False,,False,2026-07-09 18:11:09
+TPST-040,Close-Up Toothpaste 100ml,Health & Hygiene,0.25,1050,55,10,False,False,,False,2026-07-09 18:11:09
+SOAP-041,Dettol Soap 130g,Health & Hygiene,0.25,750,70,15,False,False,,False,2026-07-09 18:11:09
+PADS-042,Always Maxi Pads (10-pack),Health & Hygiene,0.25,1300,40,10,False,False,,False,2026-07-09 18:11:09
+LOTН-043,Nivea Body Lotion 400ml,Health & Hygiene,0.25,4800,18,5,False,False,,False,2026-07-09 18:11:09
